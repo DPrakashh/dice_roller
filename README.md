@@ -1,16 +1,26 @@
-# app1
+# 🎯 My First Flutter Project: Dice Roller 🎲
 
-A new Flutter project.
+[![Flutter](https://img.shields.io/badge/Flutter-3.19-blue)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-3.3-blue)](https://dart.dev)
 
-## Getting Started
+Welcome to my **first Flutter project**! As I learn Dart and Flutter, I'm building this simple but functional dice roller app. Many more projects coming soon in app development!
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="screenshots/demo.gif" width="250" alt="Dice rolling demo">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## 🌟 Why This Project?
+- **Perfect starter project** for Flutter beginners
+- Implements core concepts: `StatefulWidget`, `setState()`, assets
+- **Fully open-source** - Feel free to fork and experiment!
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ What I Learned
+✅ State management with `setState()`  
+✅ Using `Random()` for game logic  
+✅ Asset management in Flutter  
+✅ Responsive UI design  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Installation
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/yourusername/dice-roller.git
